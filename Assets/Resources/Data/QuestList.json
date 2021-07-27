@@ -1,0 +1,70 @@
+{
+    "quests": [
+        {
+            "startNpcId": 1000,
+            "endNpcId": 1000,
+            "questId": 10,
+            "questName": "모험의 시작",
+            "rewardItemList": [
+                {
+                "itemId": 0,
+                "amount": 1
+                },
+                {                
+                "itemId": 3,
+                "amount": 1
+                }
+            ],
+            "rewardGold": 0,
+            "linkedQuestId": 20,
+            "description": "모험을 시작할 때이다. 마을에서 가장 높은사람과 대화를 해보자.",
+            "tasks": [
+                {
+                    "taskType": 0,
+                    "goalText": "촌장과 대화하라.",
+                    "goalCount": 0,
+                    "currentCount": 0,
+                    "targetId": 0
+                }
+            ]
+        },
+        {
+            "startNpcId": 1000,
+            "endNpcId": 2000,
+            "questId": 20,
+            "questName": "첫 번째 퀘스트",
+            "rewardItemList": [            ],
+            "rewardGold": 10000,
+            "linkedQuestId": 30,
+            "description": "최근 근처 숲에서 출몰하는 몬스터의 수가 늘었다고 한다. 이로 인해 마을의 상인이 다른 마을로 이동하지 못해 곤란하다고 한다. Raidsh 를 처치하고 상인에게 보고하자.",
+            "tasks": [
+                {
+                    "taskType": 1,
+                    "goalText": "Radish 를 처치하라.",
+                    "goalCount": 3,
+                    "currentCount": 0,
+                    "targetId": 1
+                }
+            ]
+        },
+        {
+            "startNpcId": 1000,
+            "endNpcId": 1000,
+            "questId": 30,
+            "questName": "강력한 몬스터",
+            "rewardItemList": [],
+            "rewardGold": 50000,
+            "linkedQuestId": 0,
+            "description": "평소에 자주 출몰하지 않는 강력한 몬스터가 숲 속 깊은 곳에 나타났다고 한다. 이 몬스터를 처치하고 전리품을 획득한 뒤 촌장에게 납품하자.",
+            "tasks": [
+                {
+                    "taskType": 2,
+                    "goalText": "Cathy`s Hat 을 획득하라..",
+                    "goalCount": 1,
+                    "currentCount": 0,
+                    "targetId": 2000                 
+                }
+            ]
+        }
+    ]
+}

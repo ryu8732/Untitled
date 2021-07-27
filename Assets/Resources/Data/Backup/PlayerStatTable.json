@@ -1,0 +1,84 @@
+{
+    "playerStatTable": [
+        {
+            "level" : 1,
+            "health" : 100.0,
+            "mana" : 100.0,
+            "manaRegeneration" : 1.0,
+            "damage" : 10.0,
+            "exp" : 100
+        },
+        {
+            "level" : 2,
+            "health" : 120.0,
+            "mana" : 100.0,
+            "manaRegeneration" : 1.0,
+            "damage" : 15.0,
+            "exp" : 200
+        },
+        {
+            "level" : 3,
+            "health" : 140.0,
+            "mana" : 100.0,
+            "manaRegeneration" : 1.0,
+            "damage" : 15.0,
+            "exp" : 300
+        },
+        {
+            "level" : 4,
+            "health" : 160.0,
+            "mana" : 100.0,
+            "manaRegeneration" : 1.0,
+            "damage" : 20.0,
+            "exp" : 500
+        },
+        {
+            "level" : 5,
+            "health" : 180.0,
+            "mana" : 110.0,
+            "manaRegeneration" : 1.2,
+            "damage" : 20.0,
+            "exp" : 1000
+        },
+        {
+            "level" : 6,
+            "health" : 200.0,
+            "mana" : 110.0,
+            "manaRegeneration" : 1.2,
+            "damage" : 25.0,
+            "exp" : 1500
+        },
+        {
+            "level" : 7,
+            "health" : 220.0,
+            "mana" : 110.0,
+            "manaRegeneration" : 1.2,
+            "damage" : 25.0,
+            "exp" : 2000
+        },
+        {
+            "level" : 8,
+            "health" : 240.0,
+            "mana" : 110.0,
+            "manaRegeneration" : 1.2,
+            "damage" : 30.0,
+            "exp" : 2500
+        },
+        {
+            "level" : 9,
+            "health" : 260.0,
+            "mana" : 110.0,
+            "manaRegeneration" : 1.2,
+            "damage" : 30.0,
+            "exp" : 3000
+        },
+        {
+            "level" : 10,
+            "health" : 280.0,
+            "mana" : 120.0,
+            "manaRegeneration" : 1.4,
+            "damage" : 35.0,
+            "exp" : 5000
+        }
+    ]
+}

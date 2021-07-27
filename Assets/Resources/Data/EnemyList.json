@@ -1,0 +1,26 @@
+{
+    "enemyList": [
+        {
+            "enemyType" : 0,
+            "enemyId" : 1,
+            "enemyName" : "Radish",
+            "maxAmount" : 5,
+            "exp" : 10,
+            "level" : 1,
+            "maxHealth" : 100.0,
+            "damage" : 5.0
+		},
+        {
+            "enemyType" : 1,
+            "enemyId" : 2,
+            "enemyName" : "Cathy",
+            "itemNo" : 2000,
+            "dropChance" : 100.0,
+            "maxAmount" : 1,
+            "exp" : 100,
+            "level" : 5,
+            "maxHealth" : 300.0,
+            "damage" : 20.0
+		}
+    ]
+}
