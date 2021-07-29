@@ -20,4 +20,4 @@ Unity 엔진을 기반으로 제작된 3D 액션 RPG 게임으로 포트폴리�
 
 - 동영상: https://youtu.be/5onp35oJSfU
 
-- 기술서: https://drive.google.com/file/d/1_0xC49_bUAHYqht7_CLc0j6qbnhxjU8D/view?usp=sharing
+- 기술서: https://drive.google.com/file/d/1jxbBfF239qujMS5ZZp7iazn5fAZ4D08C/view?usp=sharing
